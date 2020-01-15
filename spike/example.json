@@ -1,0 +1,20 @@
+{
+	"name" : "John Smith",
+	"age" : 42,
+	"height" : 1.79,
+	"alive" : true,
+	"alias" : ["Dr Who", "Terrible Beer"],
+	"supports" : [
+		{"sport" : "Football", "team" : "Leicester City"},
+		{"sport" : "Rugby", "team"  : "Leicester Tigers"},
+		{"sport" : "Cricket", "team"  : "Leicestershire County"},
+		{"sport" : "Basketball", "team"  : "Leciester Riders"}
+	],
+	"favouriteFilm" : {
+	  "title" : "The Godfather",
+	  "year" : 1972,
+	  "director" : "Francis Ford Coppola",
+	  "writers" : ["Mario Puzo", "Francis Ford Coppola"],
+	  "stars" : ["Marlon Brando", "Al Pacino", "James Caan", "Robert Duvall"]
+	}
+}
